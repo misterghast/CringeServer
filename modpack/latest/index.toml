@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "UwaaaSoCringe.png"
-hash = "09444e6eca44cd07f0bb872d4d04a11d02d80eaa7f4ec2df777bb4df1d9e80b5"
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "09d31307f81a06df5ab65ff57c2c830180bbc1138bb8326557172b0a883d6b8b"
 metafile = true
@@ -22,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4697f8eec2f5a8a6a3aca65ebad0cac1f6c6a29b4c0433e489d98985854731c5"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "3451be7d31e029ff21bb01fe3a3f39e81060c5df7d079e33310d74d09254e82b"
 metafile = true
 
 [[files]]
