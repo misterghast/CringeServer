@@ -14,6 +14,6 @@ Good luck! Let's hope we reach the top.
 Go to: 'packs/latest.zip' for the latest server resource pack.
 
 #### For the client-side modpack:
-<a href=https://modrinth.com/modpack/uwapack!-so-cringe!>Click here for the modpack on Modrinth :3</a>
+[Click here for the modpack on Modrinth :3](https://modrinth.com/modpack/uwapack!-so-cringe!)
 
 ## It's easy as 1 2 3!
