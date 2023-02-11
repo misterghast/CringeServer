@@ -15,7 +15,7 @@ Go to: 'packs/latest.zip' for the latest server resource pack.
 
 #### For the client-side modpack:
 [Click here for the modpack on Modrinth :3](https://modrinth.com/modpack/uwapack!-so-cringe!)
-Alternatively, download the [PackWiz version of the pack here](file:///packs/Uwaa- So Cringe- v1.0b.zip)
+Alternatively, download the [PackWiz version of the pack here](packs/Uwaa- So Cringe- v1.0b.zip)
 
 Installation instructions for PackWiz version:
 1. Get [Prism Launcher](https://prismlauncher.org/) and install it for your platform.
