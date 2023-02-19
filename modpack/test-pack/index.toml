@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "9a116738043fb2ffffef1ee31556033bd7f2fdf37a7e1c4a7f77a5ac9bb62031"
+metafile = true
+
+[[files]]
 file = "mods/crossroads-mc.pw.toml"
 hash = "325715363dbd8a0144dc00538575de82a5cb09e815f06b05d6120e24524639e5"
 metafile = true
