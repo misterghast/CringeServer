@@ -26,6 +26,11 @@ hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3aff473c4bf2e5133793d6028bc7c6de57359b20ebe83af08832a1eda08babd3"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "be0db50a708431e4f656eb66da738e57f0cbea88069a7795abd33ba64536bc56"
 metafile = true
