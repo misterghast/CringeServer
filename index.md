@@ -15,10 +15,12 @@ Go to: 'packs/latest.zip' for the latest server resource pack.
 
 #### For the client-side modpack:
 [Click here for the modpack on Modrinth :3](https://modrinth.com/modpack/uwapack!-so-cringe!)
-Alternatively, download the [PackWiz version of the pack here]("packs/Uwaa- So Cringe- v1.0b.zip")
+Alternatively, download the [PackWiz version of the pack here](packs/Uwaa- So Cringe- v1.0b.zip)
+
+PackWiz version of the pack has more mods than the Modrinth version.
 
 Installation instructions for PackWiz version:
-1. Get [Prism Launcher]("https://prismlauncher.org/") and install it for your platform.
+1. Get [Prism Launcher](https://prismlauncher.org/) and install it for your platform.
 2. Once installation is complete, drag and drop the zip file you downloaded on-to the Prism Launcher's main window. 
 3. Click "Ok" to install the pack with Prism Launcher and PackWiz.
 4. The first time when you launch the 'instance' that is installed, all mods will be automatically downloaded from their respective pages on CurseForge and Modrinth.
