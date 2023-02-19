@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/crossroads-mc.pw.toml"
+hash = "325715363dbd8a0144dc00538575de82a5cb09e815f06b05d6120e24524639e5"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "88de9e0b66391586d0764e8fcca14bf6850a99ea030027bbf7946dafefcd0d5a"
+metafile = true
+
+[[files]]
+file = "mods/eidolon.pw.toml"
+hash = "9aa35fe6d55ae4f17183164494430487cd25b6cb2a74f561f691cd96eb6f452c"
+metafile = true
+
+[[files]]
+file = "mods/essentials.pw.toml"
+hash = "790dad41780c1a3948b57f50bc2322e41641152e45ebe982fbf16ed4e3b0f21b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f1785b6fb4b3bd26594e173737a653a237f9e9e9c0d330faa56bdf0225217d75"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "be0db50a708431e4f656eb66da738e57f0cbea88069a7795abd33ba64536bc56"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
+metafile = true
+
+[[files]]
+file = "mods/roots-classic.pw.toml"
+hash = "1edf32ee3a373bb60f154eda3f967adae695865163a1a3fc9a0d34a9bae35f40"
+metafile = true
+
+[[files]]
+file = "mods/theurgy.pw.toml"
+hash = "6c3fd5ae05a1178b612246adebf2d616dd8eaedda90aafb1e634161de7b17a7a"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Test Pack"
+author = "ghast"
+version = "1.0.0a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a7f4639ef2a4c4397bad8f38599f606ed4192ecc20d3a0d2c78a761309554a6f"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"
