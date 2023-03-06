@@ -1,0 +1,13 @@
+name = "Passable Foliage 🌳 (Forge)"
+filename = "PassableFoliage-1.16.5-2.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8c1bcfbe61129c224e8debc815b140c2fd010a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3480488
+project-id = 379887

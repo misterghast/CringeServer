@@ -1,0 +1,13 @@
+name = "Oculus"
+filename = "oculus-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5410c49fc90146c535314da0525f0393e286cab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4300427
+project-id = 581495
