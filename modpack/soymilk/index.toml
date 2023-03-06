@@ -77,12 +77,17 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "e65de6aae03ddbd5983eb5a2adb732b9d5a563a2c8fd179a84e43ffce7e201ca"
+hash = "99192cbb2aa5019f9064cfbe02c069a74b12b060f40a927c1654b2a7680ed4c1"
 metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "06f9136bcf52ef7ed253a4ad094a2c78855223dfb67c8afd5cd41da9570f9362"
 metafile = true
 
 [[files]]
@@ -126,6 +131,11 @@ hash = "7cb279446ed84b06a98f74399675f0396b03ca44d94216f807e4bfe842068727"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "4c609b500836cde1384f1306ac55ad31efd00fcd06c096b65676e18ec3a429b4"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
@@ -148,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "02630d53f5aba3980c32df918f68aa3d02e5e245937293c6c235d6a0056184f0"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
+metafile = true
+
+[[files]]
+file = "mods/fog-looks-good-now.pw.toml"
+hash = "595ed5243da6d5d7cd2f0fb24b395ff4c4ed2b539209277006d47903ad3b360c"
 metafile = true
 
 [[files]]
@@ -261,6 +281,11 @@ hash = "3b0d303b893d4e138945c1ec27ef3be149b92428e5ca2a95f27cd5175e6c2e29"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "dfb6c4735efa3dacda748935cc498b9462bd5c6d21d349a1da5c8fd82208c7ae"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go.pw.toml"
 hash = "601eb65f83a64a1bb9def1a73963e1b814bd822914f6a810162136fc497f6643"
 metafile = true
@@ -296,6 +321,11 @@ hash = "dee2cea7b669549e56d7a14b7d81fc5b593669f2683d1dd332f0a574dfb312e7"
 metafile = true
 
 [[files]]
+file = "mods/radon.pw.toml"
+hash = "981be0bc0eaa7492cfbe2068ecdb12424ecfba11166b1a264d7928c6391d7271"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "6c9ce831012d2430f3cb29c28ed472749ad135d23f5c49eaa01aa51e6daa8a76"
 metafile = true
@@ -328,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/roots-classic.pw.toml"
 hash = "fc0b52d97b0d922a568838efd6ada93d810bc573182f58dbbddb90c0eb56c342"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "d6a02b617d73812b20a2f8e483ea9791ecbf8de2649611bde123b6bb5d9ce365"
 metafile = true
 
 [[files]]
