@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "b52261bcbd2a639558e3a71c0051ba23d7c83898235a810bb241c83629e6b7f8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d90c2d4bddf097f62aba762791a6fbf16d563faff4557ea3f22fa96c2d4cb7d8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "5cb19c76ab9e51b4532533783550050492aa34b317229572f4e6994223d9fe82"
+metafile = true
