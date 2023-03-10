@@ -316,6 +316,11 @@ hash = "c79097b737bb6fdafbec02ebf933427f30efd635747957266a0dd785328ed3cc"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "db0ed46989906ad2cbfe933626cb9ded8b93eb169e2fa09dfae1cf200b1b295c"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "dee2cea7b669549e56d7a14b7d81fc5b593669f2683d1dd332f0a574dfb312e7"
 metafile = true
