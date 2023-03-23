@@ -1,0 +1,13 @@
+name = "So Cringe Pack"
+author = "ghast"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9b21f572b3cba1e322c314f902c7a6527420560bfda6205b8c552ec0149d11a1"
+
+[versions]
+minecraft = "1.19.3"
+quilt = "0.18.1-beta.75"

@@ -1,0 +1,13 @@
+name = "Vintage Soymilk"
+author = "ghast"
+version = "1.0.0a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7e7c835fe3616e0146f72b1a729a8a2ac64cbbe480bdac4d2be727c21aaf8590"
+
+[versions]
+forge = "14.23.0.2486"
+minecraft = "1.12.2"

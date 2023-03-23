@@ -1,0 +1,13 @@
+name = "Cookies and Cream"
+author = "ghast"
+version = "1.0.0b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eb502596aa0a01933b97f1b9641d7e1601e99a03f01886d5241430f1180c0ef9"
+
+[versions]
+forge = "36.2.34"
+minecraft = "1.16.5"

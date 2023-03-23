@@ -1,0 +1,13 @@
+name = "Map Atlases [Forge]"
+filename = "Map Atlases-forge-1.19.2-3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2702afc4c9a30e2670c5a0677cbee1c5edfb183a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3949437
+project-id = 519759

@@ -1,0 +1,13 @@
+name = "Soymilk"
+author = "ghast"
+version = "1.0.0b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ebccaa255a768be45b69b6267e161eff9838b723f2a67950404cba52eda08dd9"
+
+[versions]
+forge = "43.2.0"
+minecraft = "1.19.2"

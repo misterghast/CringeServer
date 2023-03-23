@@ -1,0 +1,13 @@
+name = "Theurgy"
+filename = "theurgy-1.16.5-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "760a181ede539a06eb3aa360987f4a4dab700585"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3201570
+project-id = 430636
