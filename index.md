@@ -8,6 +8,9 @@ I have made a meter for donations, to track our progress! Our current goal, as y
 be able to afford to run the server with better performance, as well as host a new server for modded or vanilla+ gameplay!
 
 Good luck! Let's hope we reach the top.
+
+Donate here:
+<a href="https://www.buymeacoffee.com/cringeserver"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a quissont&emoji=&slug=cringeserver&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 ### CringeServer Packs!
 
 #### For the resource pack:
