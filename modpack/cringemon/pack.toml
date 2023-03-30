@@ -1,0 +1,13 @@
+name = "Cringemon"
+author = "ghast"
+version = "alpha1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8e93d1ee87fe21efd925f2d7cf1a4998dfb29ec47f51a0ba83300d23133a3f7a"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.6"

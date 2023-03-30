@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "0904d6eaf57c3a13708c22af5eccaac980cbaa38097d1ebfff6429be207b367a"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "4ffb12523a48867ad4d711ca43771e038d4baab3820deb3d003f268670ed1bb4"
+metafile = true
+
+[[files]]
+file = "mods/craftify.pw.toml"
+hash = "5bc2320f6bbade828b44ee7c14ab5108cc0a73b7bf5da406e9da52b607a9a948"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "5bb00c8764af4747bec509578ec574e494f6b3f1dc81c6b419d7a82786797e23"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "922979ee7eb9e1b16f1e1a64fd644f8e9a6c9045876946e61acc874b2e07745f"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
+metafile = true
