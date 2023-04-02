@@ -1,0 +1,19 @@
+{
+	"type": "farmersdelight:cutting",
+	"ingredients": [
+		{
+			"item": "minecraft:end_stone"
+		}
+	],
+	"tool": {
+		"type": "farmersdelight:tool",
+		"tag": "c:tools/pickaxes"
+	},
+	"result": [
+		{
+			"item": "minecraft:ender_pearl",
+			"count": 1,
+			"chance": 0.1
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:water_bucket"
+		},
+		{
+			"item": "minecraft:nether_wart"
+		},
+		[
+			{
+				"item": "farmersdelight:rice"
+			},
+			{
+				"item": "minecraft:glowstone_dust"
+			}
+		]
+	],
+	"result": {
+		"item": "minecraft:slime_ball"
+	}
+}
