@@ -27,7 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "4ffb12523a48867ad4d711ca43771e038d4baab3820deb3d003f268670ed1bb4"
+hash = "83614dafb16c2e29f08dfcf8f6105ed8bc7450d1e8b3ad078282504e9c44ae81"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "26dcd1c29f902928f67cbae7e8de2cc7b301469547a023df352c7115a51bd99c"
 metafile = true
 
 [[files]]
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "922979ee7eb9e1b16f1e1a64fd644f8e9a6c9045876946e61acc874b2e07745f"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]

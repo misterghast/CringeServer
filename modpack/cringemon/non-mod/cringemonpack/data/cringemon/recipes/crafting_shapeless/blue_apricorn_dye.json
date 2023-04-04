@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "group": "acorn_dye_recipe",
+    "ingredients": [
+        {
+            "item": "cobblemon:blue_apricorn"
+        }
+    ],
+    "result": {
+        "item": "minecraft:blue_dye"
+    }
+}
