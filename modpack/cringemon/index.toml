@@ -181,6 +181,11 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
