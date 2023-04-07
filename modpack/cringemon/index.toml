@@ -41,6 +41,11 @@ hash = "5bc2320f6bbade828b44ee7c14ab5108cc0a73b7bf5da406e9da52b607a9a948"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "647d60817cf5bf478178fc443bb11308d9fa4b01bc1ab9a0d0293f488f9fc678"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "bc53f7664438ab4e84ac236950bc75a61b2945e32f51777c358187a9bf581dd3"
 metafile = true
@@ -71,8 +76,18 @@ hash = "166af52f9b92d1b99b9108da9ec1584e5cb1a8b8483f11eace113a83b466091a"
 metafile = true
 
 [[files]]
+file = "mods/free-cam.pw.toml"
+hash = "61d1db1f6384b49537a92039174156a07413e3339ac33d36de289291106080ca"
+metafile = true
+
+[[files]]
 file = "mods/gravestones.pw.toml"
 hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
 metafile = true
 
 [[files]]
