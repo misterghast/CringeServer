@@ -71,6 +71,11 @@ hash = "166af52f9b92d1b99b9108da9ec1584e5cb1a8b8483f11eace113a83b466091a"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
@@ -178,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
-metafile = true
-
-[[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
 metafile = true
 
 [[files]]
