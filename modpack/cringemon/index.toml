@@ -86,6 +86,11 @@ hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
 file = "mods/inmis.pw.toml"
 hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
 metafile = true
