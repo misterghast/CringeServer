@@ -76,13 +76,13 @@ hash = "166af52f9b92d1b99b9108da9ec1584e5cb1a8b8483f11eace113a83b466091a"
 metafile = true
 
 [[files]]
-file = "mods/free-cam.pw.toml"
-hash = "61d1db1f6384b49537a92039174156a07413e3339ac33d36de289291106080ca"
+file = "mods/forgotten-graves.pw.toml"
+hash = "4e0c775a53122929bd14cd1dba1d82511fac1c1e9b92fa8fdf6e894a14ee9dcb"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "58ec51afc2354d65aeb2f9e068d8467fb2d3c13a3e751325385a59d5d493930f"
+file = "mods/free-cam.pw.toml"
+hash = "61d1db1f6384b49537a92039174156a07413e3339ac33d36de289291106080ca"
 metafile = true
 
 [[files]]

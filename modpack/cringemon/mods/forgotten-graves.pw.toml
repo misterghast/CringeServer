@@ -1,0 +1,13 @@
+name = "Forgotten Graves"
+filename = "forgottengraves-1.19.2-3.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FrZIkosK/versions/l7kSXtly/forgottengraves-1.19.2-3.0.4.jar"
+hash-format = "sha1"
+hash = "24db917533c098d57739487be38deaf26c9ca3ac"
+
+[update]
+[update.modrinth]
+mod-id = "FrZIkosK"
+version = "l7kSXtly"
