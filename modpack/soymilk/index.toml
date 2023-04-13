@@ -276,6 +276,16 @@ hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
 metafile = true
 
 [[files]]
+file = "mods/ob-aquamirae.pw.toml"
+hash = "597ffa1bbe78003b00e8b547c03e117ba8ec919a049aaa2bb7ee96c82726ac94"
+metafile = true
+
+[[files]]
+file = "mods/obscure-api.pw.toml"
+hash = "beb5669b640b6d19d294327a594060d176285439b76a39f1fc74e91774c2018d"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "3b0d303b893d4e138945c1ec27ef3be149b92428e5ca2a95f27cd5175e6c2e29"
 metafile = true
