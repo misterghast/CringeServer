@@ -76,6 +76,11 @@ hash = "166af52f9b92d1b99b9108da9ec1584e5cb1a8b8483f11eace113a83b466091a"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+metafile = true
+
+[[files]]
 file = "mods/forgotten-graves.pw.toml"
 hash = "4e0c775a53122929bd14cd1dba1d82511fac1c1e9b92fa8fdf6e894a14ee9dcb"
 metafile = true
@@ -151,6 +156,16 @@ hash = "1191c0ed4c2be46db9814885dc1beb33d22a2175758ad0af8a5a53afe851d7c6"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight-fabric.pw.toml"
+hash = "f94e8ea94e15eb30a7b946fc64a30ae87b71f5ddad7547692bf004b99aaf2375"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "ce638706dae5cff9163262d4c5db8b1af749339b5e6921e1fd3a642ad9c7079b"
+metafile = true
+
+[[files]]
 file = "mods/pack-it-up.pw.toml"
 hash = "e0bec10a85e3ace6fbe070017887a10b14e7a21266d201e41f839ea1869bbbb8"
 metafile = true
@@ -176,6 +191,11 @@ hash = "eb7d098a1b5e6e0cfb014073b5b3db6330f88b593ddc81f0d6c320cfa94178b9"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "0dcc8eb3a49ef378caebfb320623c6a6e81471592d1367506785a8a1879dc2df"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a6e2e6b2b73c7e36fb521ec9e4c75a9bd59b3426bf1df9070356a3f64d41826a"
 metafile = true
@@ -193,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "03e95079203879dd128a4c51c8746d5aa281d561a6aa05cdc9016ae06a06afcc"
 metafile = true
 
 [[files]]
