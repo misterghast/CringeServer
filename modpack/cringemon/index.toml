@@ -21,6 +21,11 @@ hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "17d061c4b8588f7dbb92db31c8e13507df6a0dbc843afcfa57c79d157dab914c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "5bb00c8764af4747bec509578ec574e494f6b3f1dc81c6b419d7a82786797e23"
+metafile = true
+
+[[files]]
+file = "mods/randomblockplacement.pw.toml"
+hash = "0b3fc3c6fe8cfd8f56c659b2fb06914a9d2084faea3565c569de4309e76bbb29"
 metafile = true
 
 [[files]]
