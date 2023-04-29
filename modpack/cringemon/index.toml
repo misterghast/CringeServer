@@ -176,6 +176,11 @@ hash = "e0bec10a85e3ace6fbe070017887a10b14e7a21266d201e41f839ea1869bbbb8"
 metafile = true
 
 [[files]]
+file = "mods/purpeille.pw.toml"
+hash = "42a6c5ea3129bd1239d85bcaabde70d458528aa802e59fa3c2303068419ea013"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
