@@ -96,6 +96,11 @@ hash = "61d1db1f6384b49537a92039174156a07413e3339ac33d36de289291106080ca"
 metafile = true
 
 [[files]]
+file = "mods/fullbright-1-19.pw.toml"
+hash = "1eb2828f7b237d1d86ec6c24c6fdaedf64546d73df7eedb13e5a446e532104a1"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
