@@ -106,6 +106,11 @@ hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
 metafile = true
 
 [[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "ab71377f99b754946ba375017c4b2ddf635900b076a7fa41998ebb0b7a95c7ca"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/pack-it-up.pw.toml"
 hash = "e0bec10a85e3ace6fbe070017887a10b14e7a21266d201e41f839ea1869bbbb8"
+metafile = true
+
+[[files]]
+file = "mods/portable-jukebox.pw.toml"
+hash = "de4e94150a8fd9e543ded46e22ef180d7f871b6c04ae5961eb2bc36e7102eb7f"
 metafile = true
 
 [[files]]
