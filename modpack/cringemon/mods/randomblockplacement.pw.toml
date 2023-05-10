@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3907263
 project-id = 363104
+
+[option]
+optional = true
+description = "Allows placement of random blocks or usage of random items in certain part of hotbar, using commands and/or hotkeys."
+default = false

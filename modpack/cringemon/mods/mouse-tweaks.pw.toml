@@ -11,3 +11,8 @@ hash = "6004ccf55a3013c54fdbef3b28613c3326231d2c"
 [update.modrinth]
 mod-id = "aC3cM3Vq"
 version = "pmMCbsN3"
+
+[option]
+optional = true
+description = "Adds numerous client-side mouse tweaks that make everything better. Leave this enabled."
+default = true

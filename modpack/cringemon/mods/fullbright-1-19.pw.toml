@@ -11,3 +11,7 @@ hash = "0fdcf286d9ce210183fe37ea892ead54a76494ad"
 [update.modrinth]
 mod-id = "VyxkIxCd"
 version = "HTnSF8pV"
+
+[option]
+optional = true
+description = "Allows togglable full bright in-game. Unfortunately only togglable from config menu, not hotkey."
