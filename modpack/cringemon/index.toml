@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "a51f3f98721a8e637e71c78d5413271cb0d4816a5d55a8b9cd5c19353d49f8a2"
+hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
 metafile = true
 
 [[files]]
@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
-hash = "61d1db1f6384b49537a92039174156a07413e3339ac33d36de289291106080ca"
+hash = "facc51d33489a43c495277ac8329b5885d20ceabbee6a2e24b2d3fed52047135"
 metafile = true
 
 [[files]]
 file = "mods/fullbright-1-19.pw.toml"
-hash = "1eb2828f7b237d1d86ec6c24c6fdaedf64546d73df7eedb13e5a446e532104a1"
+hash = "931cbd5d2e1c1b1da1c9849d6969636e5c4d56211471e8b03b08660d66874534"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+hash = "f8f52459459cdfa712293c9480453eff764d7ca3e087872a35ee83076fbef178"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/randomblockplacement.pw.toml"
-hash = "0b3fc3c6fe8cfd8f56c659b2fb06914a9d2084faea3565c569de4309e76bbb29"
+hash = "d782d708437d3930dd77107810c363aee59b3241d62a42b6ea2b598643f5c508"
 metafile = true
 
 [[files]]
@@ -284,3 +284,71 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
+
+[[files]]
+file = "non-mod/cringemonpack/data/cobblemon/species/generation1/shellder.json"
+hash = "055da3dc8d17b6301e8faa3269044564fa018e97a242f4e4f07f1a8bb73240b1"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cobblemon/species/generation4/pachirisu.json"
+hash = "4bc382645675c78306a888690f6b8cfbf94d03c6a3d05014757f36012286b498"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/acorn_dye.json"
+hash = "f754e09f9f0cc676c538048215834a08bc0b45e28f5cf9947e0f5b710c765fcc"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/black_apricorn_dye.json"
+hash = "5f298012d3cb36ff704d681a9b2aa2d663d8a59de440e306518695e4f415778d"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/blue_apricorn_dye.json"
+hash = "432674017e97875b5eb3a59b83c9206b64a3cf3293fd7f1407514ca7ed829ac3"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/createdyeacorn.py"
+hash = "e90d0f7f045e50fa2cc25b90d0ff04b7fa39ee761c0800cdb0ecf400cea2d45f"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/ender_pearl.json"
+hash = "7651ab62e2d76192ff28ac31a2f9ca5d8994812c10baba43051ad96bb09387ba"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/green_apricorn_dye.json"
+hash = "59354bd616616b795f751486ac263cf34a751b1e358f56fee0d2f32e57a12858"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/leather.json"
+hash = "6cb107c47068135b7a7cc6a59769c879fe2843f212b7d878e6531f9e37ced486"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/pink_apricorn_dye.json"
+hash = "6a2fdabb8cbf5608b82717813205af424ff5974fb6d4dfd9c589f647821a095f"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/red_apricorn_dye.json"
+hash = "b2b2cc766e7bbd744b01181febb355735e5e7621c6c1219b08951fa6f94e96c5"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/slime.json"
+hash = "f419d58c1a07b9819eb55f093b49f7698e82dbac923d3872d75a335f41d51a05"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/white_apricorn_dye.json"
+hash = "2f434aaee6696c659ddb82264904e55a35db77295281fcbf62da024cf7396d46"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/crafting_shapeless/yellow_apricorn_dye.json"
+hash = "d7b89f6535ac6c9ed0d2fdd7360093abfe3d260ad1c2b244d002b0f1c98af4cd"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/cutting_board/bone_sand.json"
+hash = "6d87bb02407de32baa06ccbd43e0e3640973d2a2ac0c2d6e5f8bbac984930bd8"
+
+[[files]]
+file = "non-mod/cringemonpack/data/cringemon/recipes/cutting_board/ender_pearl_end_stone.json"
+hash = "8af0f5e83763d34c7c65b8f3c7b7eac71de1a1d08f776ace647c3a1dd6265852"
+
+[[files]]
+file = "non-mod/cringemonpack/pack.mcmeta"
+hash = "a447b5b18a4c8ad92547084644069752809cd4a4a7f50dae0c274dddfc250b67"
