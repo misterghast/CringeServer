@@ -156,11 +156,6 @@ hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "393c6fc6f6b950fd5794034d9330372c62f217319031297d558326096a5209a4"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
