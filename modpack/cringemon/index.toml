@@ -286,6 +286,16 @@ hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b1a2fbb24c590b91e32f570c5d202c9bd298e083409c8b71870db185c50fc8e9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d273a8d9829159697733da5a69d4a774377583ac18a00eaf9e3391f5d5ee1c15"
+metafile = true
+
+[[files]]
 file = "non-mod/cringemonpack/data/cobblemon/species/generation1/shellder.json"
 hash = "055da3dc8d17b6301e8faa3269044564fa018e97a242f4e4f07f1a8bb73240b1"
 
