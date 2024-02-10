@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
+metafile = true
+
+[[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "9089139f1711f4e4289b0953faa3bb85afda39497538f944a28e9800bb7ac1fb"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "272b13df72b20273dee42882fb856b7168a74db9f998935d6f239a2ddce982a5"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "b7554f6904cd09f88067fa11b7edbe1d8ff88f75bfb4a437d19b50dcae607b61"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "86d5d686ebe5078b2058260f3fcf7c987a07ff00144514af0789c8e4c71c6d7d"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+metafile = true
+
+[[files]]
+file = "mods/forgotten-graves.pw.toml"
+hash = "e4388a72b0660fb6803a56bb2c0e1f30aec77d85ea457b637e1e3f2b06cb195c"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "81cb55170d352d0e7786b5a3f7c6f2ceeecd1f52c4559ee423598b4d62e10af6"
+metafile = true
+
+[[files]]
+file = "mods/fullbright.pw.toml"
+hash = "d3f43dcf2fda7ae6e0baabde4554522daca75f9da363c3eff7fdfa2a7f6d6faa"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight-fabric.pw.toml"
+hash = "3dda9d9871e608fd8b97db8797e70ed5473036485257035409fb9c568b2c6c08"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true

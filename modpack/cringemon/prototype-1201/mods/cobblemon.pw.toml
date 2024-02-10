@@ -1,0 +1,13 @@
+name = "Cobblemon"
+filename = "Cobblemon-fabric-1.4.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MdwFAVRL/versions/uWAkNUxZ/Cobblemon-fabric-1.4.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "bd7fb792b67070d267b63bbc748754902fef34f7"
+
+[update]
+[update.modrinth]
+mod-id = "MdwFAVRL"
+version = "uWAkNUxZ"
