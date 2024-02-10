@@ -101,11 +101,6 @@ hash = "fb66ee96cf8bb97318f621112bf35f1902a17deb286d9fde31c2ce72c63e60d7"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
-metafile = true
-
-[[files]]
 file = "mods/inmis.pw.toml"
 hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
@@ -113,11 +108,6 @@ metafile = true
 [[files]]
 file = "mods/inmisaddon.pw.toml"
 hash = "e5f96d898695220e79fc43f2142969a91d793d50385149f3c5578a8439b60443"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
@@ -158,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
 
 [[files]]
