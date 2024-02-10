@@ -6,6 +6,11 @@ hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
+metafile = true
+
+[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "9089139f1711f4e4289b0953faa3bb85afda39497538f944a28e9800bb7ac1fb"
 metafile = true
@@ -71,6 +76,11 @@ hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/forgotten-graves.pw.toml"
 hash = "e4388a72b0660fb6803a56bb2c0e1f30aec77d85ea457b637e1e3f2b06cb195c"
 metafile = true
@@ -86,8 +96,43 @@ hash = "d3f43dcf2fda7ae6e0baabde4554522daca75f9da363c3eff7fdfa2a7f6d6faa"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "fb66ee96cf8bb97318f621112bf35f1902a17deb286d9fde31c2ce72c63e60d7"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "e5f96d898695220e79fc43f2142969a91d793d50385149f3c5578a8439b60443"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7e532cfb6fc15c35248b6d0ae3ac5bddae4065920a429c486e36f81bc1db48e7"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
@@ -96,8 +141,33 @@ hash = "3dda9d9871e608fd8b97db8797e70ed5473036485257035409fb9c568b2c6c08"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "977fdb7daeaa4a15d68e8509ebe774523b8d98250efeeb67f3721dd3ee5bc652"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "7f0cf4525c2fde0638a1712276e22dc4580fd1eacc131ff4da6ca2adb6aa469f"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "e260ccd93b6650fc7317b51c5e0beffc5fef680d42808c2fd1ed7cab098d1b20"
 metafile = true
 
 [[files]]
